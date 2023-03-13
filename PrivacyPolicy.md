@@ -1,11 +1,11 @@
 Privacy Policy
-Umut Cörüt built the Solely app as a Free app. This SERVICE is provided by Umut Cörüt at no cost and is intended for use as is.
+Umut Cörüt built the NoteBox app as a Free app. This SERVICE is provided by Umut Cörüt at no cost and is intended for use as is.
 
 This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service.
 
 If you choose to use my Service, then you agree to the collection and use of information in relation to this policy. The Personal Information that I collect is used for providing and improving the Service. I will not use or share your information with anyone except as described in this Privacy Policy.
 
-The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which are accessible at Solely unless otherwise defined in this Privacy Policy.
+The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which are accessible at NoteBox unless otherwise defined in this Privacy Policy.
 
 Information Collection and Use
 
@@ -60,7 +60,7 @@ If you have any questions or suggestions about my Privacy Policy, do not hesitat
 
 
 
-سياسة الخصوصية قام Umut Cörüt ببناء التطبيق Solely كتطبيق مجاني. يتم توفير هذه الخدمة من قبل Umut Cörüt بدون تكلفة وهي مخصصة للاستخدام كما هي.
+سياسة الخصوصية قام Umut Cörüt ببناء التطبيق NoteBox كتطبيق مجاني. يتم توفير هذه الخدمة من قبل Umut Cörüt بدون تكلفة وهي مخصصة للاستخدام كما هي.
 
 تُستخدم هذه الصفحة لإعلام الزائرين بسياساتي من خلال جمع المعلومات الشخصية واستخدامها والكشف عنها إذا قرر أي شخص استخدام خدمتي.
 
@@ -120,13 +120,13 @@ If you have any questions or suggestions about my Privacy Policy, do not hesitat
 
 
 
-隐私政策 Umut Cörüt 将 Solely 应用程序构建为免费应用程序。 本服务由 Umut Cörüt 免费提供，旨在按原样使用。
+隐私政策 Umut Cörüt 将 NoteBox 应用程序构建为免费应用程序。 本服务由 Umut Cörüt 免费提供，旨在按原样使用。
 
 如果有人决定使用我的服务，此页面用于告知访问者有关我收集、使用和披露个人信息的政策。
 
 如果您选择使用我的服务，则表示您同意收集和使用与本政策相关的信息。 我收集的个人信息用于提供和改进服务。 除本隐私政策中所述外，我不会使用或与任何人分享您的信息。
 
-本隐私政策中使用的术语与我们的条款和条件具有相同的含义，除非本隐私政策中另有定义，否则可在 Solely 访问这些条款和条件。
+本隐私政策中使用的术语与我们的条款和条件具有相同的含义，除非本隐私政策中另有定义，否则可在 NoteBox 访问这些条款和条件。
 
 信息收集和使用
 
@@ -180,13 +180,13 @@ Cookie 是包含少量数据的文件，通常用作匿名唯一标识符。 这
 
 
 
-Politique de confidentialité Umut Cörüt a créé l'application Solely en tant qu'application gratuite. Ce SERVICE est fourni gratuitement par Umut Cörüt et est destiné à être utilisé tel quel.
+Politique de confidentialité Umut Cörüt a créé l'application NoteBox en tant qu'application gratuite. Ce SERVICE est fourni gratuitement par Umut Cörüt et est destiné à être utilisé tel quel.
 
 Cette page est utilisée pour informer les visiteurs de mes politiques de collecte, d'utilisation et de divulgation des informations personnelles si quelqu'un décide d'utiliser mon service.
 
 Si vous choisissez d'utiliser mon service, vous acceptez la collecte et l'utilisation d'informations en relation avec cette politique. Les informations personnelles que je collecte sont utilisées pour fournir et améliorer le service. Je n'utiliserai ni ne partagerai vos informations avec qui que ce soit, sauf de la manière décrite dans la présente politique de confidentialité.
 
-Les termes utilisés dans la présente politique de confidentialité ont la même signification que dans nos conditions générales, qui sont accessibles sur Solely, sauf indication contraire dans la présente politique de confidentialité.
+Les termes utilisés dans la présente politique de confidentialité ont la même signification que dans nos conditions générales, qui sont accessibles sur NoteBox, sauf indication contraire dans la présente politique de confidentialité.
 
 Collecte et utilisation des informations
 
@@ -240,13 +240,13 @@ Si vous avez des questions ou des suggestions concernant ma politique de confide
 
 
 
-Datenschutzrichtlinie Umut Cörüt hat die Solely-App als kostenlose App entwickelt. Dieser SERVICE wird von Umut Cörüt kostenlos zur Verfügung gestellt und ist für die Nutzung ohne Mängelgewähr bestimmt.
+Datenschutzrichtlinie Umut Cörüt hat die NoteBox-App als kostenlose App entwickelt. Dieser SERVICE wird von Umut Cörüt kostenlos zur Verfügung gestellt und ist für die Nutzung ohne Mängelgewähr bestimmt.
 
 Diese Seite wird verwendet, um Besucher über meine Richtlinien zur Erfassung, Verwendung und Offenlegung personenbezogener Daten zu informieren, falls sich jemand entschieden hat, meinen Dienst zu nutzen.
 
 Wenn Sie sich dafür entscheiden, meinen Dienst zu nutzen, stimmen Sie der Erfassung und Verwendung von Informationen in Bezug auf diese Richtlinie zu. Die von mir erfassten personenbezogenen Daten werden zur Bereitstellung und Verbesserung des Dienstes verwendet. Ich werde Ihre Informationen nicht verwenden oder an Dritte weitergeben, außer wie in dieser Datenschutzrichtlinie beschrieben.
 
-Die in dieser Datenschutzrichtlinie verwendeten Begriffe haben die gleiche Bedeutung wie in unseren Allgemeinen Geschäftsbedingungen, die bei Solely zugänglich sind, sofern in dieser Datenschutzrichtlinie nichts anderes definiert ist.
+Die in dieser Datenschutzrichtlinie verwendeten Begriffe haben die gleiche Bedeutung wie in unseren Allgemeinen Geschäftsbedingungen, die bei NoteBox zugänglich sind, sofern in dieser Datenschutzrichtlinie nichts anderes definiert ist.
 
 Erfassung und Verwendung von Informationen
 
@@ -300,7 +300,7 @@ Wenn Sie Fragen oder Anregungen zu meiner Datenschutzrichtlinie haben, zögern S
 
 
 
-Informativa sulla privacy Umut Cörüt ha creato l'app Solely come app gratuita. Questo SERVIZIO è fornito da Umut Cörüt gratuitamente ed è destinato all'uso così com'è.
+Informativa sulla privacy Umut Cörüt ha creato l'app NoteBox come app gratuita. Questo SERVIZIO è fornito da Umut Cörüt gratuitamente ed è destinato all'uso così com'è.
 
 Questa pagina viene utilizzata per informare i visitatori in merito alle mie politiche con la raccolta, l'uso e la divulgazione di informazioni personali se qualcuno decide di utilizzare il mio servizio.
 
@@ -360,13 +360,13 @@ In caso di domande o suggerimenti sulla mia Informativa sulla privacy, non esita
 
 
 
-プライバシー ポリシー Umut Cörüt は、Solely アプリを無料アプリとして作成しました。 このサービスは Umut Cörüt によって無料で提供され、そのまま使用することを意図しています。
+プライバシー ポリシー Umut Cörüt は、NoteBox アプリを無料アプリとして作成しました。 このサービスは Umut Cörüt によって無料で提供され、そのまま使用することを意図しています。
 
 このページは、誰かが私のサービスを使用することを決定した場合に、個人情報の収集、使用、および開示に関する私のポリシーについて訪問者に通知するために使用されます。
 
 私のサービスを使用することを選択した場合、このポリシーに関連する情報の収集と使用に同意したことになります。 私が収集する個人情報は、サービスの提供および改善のために使用されます。 このプライバシーポリシーに記載されている場合を除き、私はあなたの情報を使用したり、誰とも共有したりしません.
 
-このプライバシー ポリシーで使用される用語は、このプライバシー ポリシーで別段の定義がない限り、Solely でアクセスできる当社の利用規約と同じ意味を持ちます。
+このプライバシー ポリシーで使用される用語は、このプライバシー ポリシーで別段の定義がない限り、NoteBox でアクセスできる当社の利用規約と同じ意味を持ちます。
 
 情報の収集と使用
 
@@ -420,7 +420,7 @@ Cookie は、匿名の一意の識別子として一般的に使用される少�
 
 
 
-개인 정보 보호 정책 Umut Cörüt는 Solely 앱을 무료 앱으로 만들었습니다. 이 서비스는 Umut Cörüt에서 무료로 제공하며 있는 그대로 사용하도록 되어 있습니다.
+개인 정보 보호 정책 Umut Cörüt는 NoteBox 앱을 무료 앱으로 만들었습니다. 이 서비스는 Umut Cörüt에서 무료로 제공하며 있는 그대로 사용하도록 되어 있습니다.
 
 이 페이지는 누군가가 내 서비스를 사용하기로 결정한 경우 개인 정보의 수집, 사용 및 공개에 대한 내 정책을 방문자에게 알리는 데 사용됩니다.
 
@@ -480,13 +480,13 @@ AdMob 로그 데이터
 
 
 
-Política de privacidad Umut Cörüt creó la aplicación Solely como una aplicación gratuita. Umut Cörüt proporciona este SERVICIO sin costo alguno y está diseñado para usarse tal cual.
+Política de privacidad Umut Cörüt creó la aplicación NoteBox como una aplicación gratuita. Umut Cörüt proporciona este SERVICIO sin costo alguno y está diseñado para usarse tal cual.
 
 Esta página se utiliza para informar a los visitantes sobre mis políticas con respecto a la recopilación, el uso y la divulgación de Información personal si alguien decide utilizar mi Servicio.
 
 Si elige usar mi Servicio, entonces acepta la recopilación y el uso de información en relación con esta política. La información personal que recopilo se utiliza para proporcionar y mejorar el Servicio. No usaré ni compartiré su información con nadie, excepto como se describe en esta Política de privacidad.
 
-Los términos utilizados en esta Política de privacidad tienen los mismos significados que en nuestros Términos y condiciones, a los que se puede acceder en Solely a menos que se defina lo contrario en esta Política de privacidad.
+Los términos utilizados en esta Política de privacidad tienen los mismos significados que en nuestros Términos y condiciones, a los que se puede acceder en NoteBox a menos que se defina lo contrario en esta Política de privacidad.
 
 Recopilación y uso de información
 
@@ -546,13 +546,13 @@ Si tiene alguna pregunta o sugerencia sobre mi Política de privacidad, no dude 
 
 
 
-Gizlilik Politikası Umut Cörüt, Solely uygulamasını Ücretsiz bir uygulama olarak oluşturdu. Bu HİZMET, Umut Cörüt tarafından ücretsiz olarak sağlanmaktadır ve olduğu gibi kullanılması amaçlanmıştır.
+Gizlilik Politikası Umut Cörüt, NoteBox uygulamasını Ücretsiz bir uygulama olarak oluşturdu. Bu HİZMET, Umut Cörüt tarafından ücretsiz olarak sağlanmaktadır ve olduğu gibi kullanılması amaçlanmıştır.
 
 Bu sayfa, herhangi biri Hizmetimi kullanmaya karar verirse, ziyaretçileri Kişisel Bilgilerin toplanması, kullanılması ve ifşa edilmesiyle ilgili politikalarım hakkında bilgilendirmek için kullanılır.
 
 Hizmetimi kullanmayı seçerseniz, bu politikayla ilgili bilgilerin toplanmasını ve kullanılmasını kabul etmiş olursunuz. Topladığım Kişisel Bilgiler, Hizmeti sağlamak ve geliştirmek için kullanılır. Bilgilerinizi bu Gizlilik Politikasında belirtilen durumlar dışında kullanmayacağım veya kimseyle paylaşmayacağım.
 
-Bu Gizlilik Politikasında kullanılan terimler, bu Gizlilik Politikasında aksi belirtilmedikçe Solely'de erişilebilen Şartlar ve Koşullarımızdaki anlamlarla aynıdır.
+Bu Gizlilik Politikasında kullanılan terimler, bu Gizlilik Politikasında aksi belirtilmedikçe NoteBox'de erişilebilen Şartlar ve Koşullarımızdaki anlamlarla aynıdır.
 
 Bilgi Toplama ve Kullanma
 
